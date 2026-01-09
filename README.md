@@ -1,9 +1,9 @@
 # Hey, I’m Aben 👋
 
-I’m a student developer with a strong interest in **backend systems, logic-driven programming, and real-world workflow simulation**.  
-I enjoy building projects that focus on **clean architecture, modular design, and maintainable code**, primarily using Python.
+I’m a student developer with a strong interest in backend systems, logic-driven programming, and real-world workflow simulation.  
+I enjoy building projects that focus on clean architecture, modular design, and maintainable code, primarily using Python.
 
-While my background includes backend-oriented programming projects, my current academic focus is **Aerospace Engineering**. As a result, I am expanding my skill set by applying Python beyond core computer science concepts—particularly toward **data analytics and computational problem-solving** to support engineering analysis and learning.
+While my background includes backend-oriented programming projects, my current academic focus is Aerospace Engineering. As a result, I am expanding my skill set by applying Python beyond core computer science concepts—particularly toward **data analytics and computational problem-solving to support engineering analysis and learning.
 
 ---
 
